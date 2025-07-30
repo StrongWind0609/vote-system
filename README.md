@@ -110,8 +110,8 @@ const { contestants, votingWindow, isLoading, error, refetch } = useContestants(
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd talent-voting-system
+git clone https://github.com/StrongWind0609/vote-system.git
+cd vote-system
 ```
 
 2. Install dependencies:
